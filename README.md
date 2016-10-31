@@ -1,8 +1,8 @@
 # ActivityLivecycle<h1>
 
 # Screenshoot <h1>
-![Gambar 1](http://imageshack.com/a/img921/5950/yTVBve.jpg)
-![Gambar 2](http://imageshack.com/a/img921/4736/K9n4ug.jpg)
+![Gambar 1](http://imageshack.com/a/img924/1249/nvsVG6.jpg)
+![Gambar 2](http://imageshack.com/a/img921/3914/RVtLtl.jpg)
 
 #Identitas<h1> 
 1. Nama : Shifa Amelia Arista 
